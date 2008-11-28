@@ -1,21 +1,21 @@
 #summary Chapter listing
 
-Environment setup
-Genesis
-The screen
-The GDT and IDT
-IRQs and the PIT
-Virtual memory management
-Physical memory management
-Debugging and symbol lookup
-The heap
-Multithreading
-Locking and queued semaphores
-Initial ramdisk
-Module loading
-Virtual file system and device drivers
-FAT driver
-Program loading
-Multiple address spaces
-C library
-Porting GNU Bash
+  # Environment setup
+  # Genesis
+  # The screen
+  # The GDT and IDT
+  # IRQs and the PIT
+  # Virtual memory management
+  # Physical memory management
+  # Debugging and symbol lookup
+  # The heap
+  # Multithreading
+  # Locking and queued semaphores
+  # Initial ramdisk
+  # Module loading
+  # Virtual file system and device drivers
+  # FAT driver
+  # Program loading
+  # Multiple address spaces
+  # C library
+  # Porting GNU Bash
