@@ -14,6 +14,7 @@
   # Initial ramdisk
   # Module loading
   # Virtual file system and device drivers
+  # Keyboard driver
   # FAT driver
   # Program loading
   # Multiple address spaces
