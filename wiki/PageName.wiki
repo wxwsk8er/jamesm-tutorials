@@ -1,20 +1,20 @@
 #summary Chapter listing
 
-  # Environment setup
-  # Genesis
-  # The screen
-  # The GDT and IDT
-  # IRQs and the PIT
-  # Virtual memory management
-  # Physical memory management
-  # Debugging and symbol lookup
-  # The heap
-  # Multithreading
-  # Locking and queued semaphores
-  # Initial ramdisk
+  # Environment setup - done
+  # Genesis - done
+  # The screen - done
+  # The GDT and IDT - done
+  # IRQs and the PIT - done
+  # Virtual memory management - not reviewed
+  # Physical memory management - not reviewed
+  # Debugging and symbol lookup - done
+  # The heap - not reviewed
+  # Multithreading - not reviewed
+  # Locking and queued semaphores - work in progress
+  # Initial ramdisk - work in progress
   # Module loading
   # Virtual file system and device drivers
-  # Keyboard driver
+  # Keyboard driver - not reviewed
   # FAT driver
   # Program loading
   # Multiple address spaces
